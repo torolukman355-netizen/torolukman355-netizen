@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 Information Technology student at the University of North Sumatra <br><br>🔭 I’m currently working on<br>   Web development projects<br><br>👯 I’m looking to collaborate on<br>   Open-source and technology projects<br><br>🤝 I’m looking for help with<br>   Software development and system design<br><br>🌱 I’m currently learning<br>   Web Development, Cybersecurity, and Cloud Computing<br><br>💬 Ask me about<br>   Programming, Databases, and Web Development<br><br>
+📖 Information Technology student at the University of North Sumatra <br><br>🔭 I’m currently working on Web development projects<br><br>👯 I’m looking to collaborate on Open-source and technology projects<br><br>🤝 I’m looking for help with Software development and system design<br><br>🌱 I’m currently learning Web Development, Cybersecurity, and Cloud Computing<br><br>💬 Ask me about Programming, Databases, and Web Development<br><br>
 
 
 ## 🌐 Socials:
